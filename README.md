@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name's Jason! I'm a student at the University of Cincinnati studying computer science. I like all things tech and have a strong passion for video games. In fact, my main personal project right now is a game. When I'm not learning in school, you can find me playing video games, working out, watching movies or hanging with friends. I aspire to be a strong programmer and a kind, valuable person to society.  
 <!--
 **JN-Coding/JN-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
